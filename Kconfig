@@ -1,0 +1,7 @@
+#
+# RMI4 configuration
+#
+config TOUCH_CALIBRATION
+	bool "touch calibration"
+	help
+	  Say Y here if you want to support the Synaptics RMI4 bus.
